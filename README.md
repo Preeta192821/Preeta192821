@@ -17,9 +17,10 @@ I am a versatilist and easily adapt to different hats (Python Developer 🌐, So
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Preeta192821?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-<!--- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)--->
 - 📚 &nbsp; When I am free, I love to listen music.
-- 
+<!--- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)--->
+
+
 <br>
 
 ### 🔨 Languages and Tools:
@@ -30,21 +31,3 @@ I am a versatilist and easily adapt to different hats (Python Developer 🌐, So
 <a href="https://machinelearning.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 
 
-<br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/Preeta192821/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/Preeta192821/Wine_Quality_Project_using_Django" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/Preeta192821/Loan_Prediction_using_Django" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/Preeta192821/gymmanagement" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/Preeta192821/Hospital-Management-System-Using-Django" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
