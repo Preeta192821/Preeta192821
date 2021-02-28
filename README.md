@@ -3,7 +3,7 @@ MACHINE LEARNING ENGINEER
                        You have finally discovered my Github profile.
                  Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
                         Happy Learning! 😊
-[![HitCount](http://hits.dwyl.com/Preeta192821/Preeta192821.svg)](http://hits.dwyl.com/Preeta192821/Preeta192821)       
+       
 
 <!--
 **Preeta192821/Preeta192821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/preeti-verma-6bbb111a9/
 - ⚡ Fun fact: I am Biology Student but now i am in IT field.
 -->
+[![HitCount](http://hits.dwyl.com/Preeta192821/Preeta192821.svg)](http://hits.dwyl.com/Preeta192821/Preeta192821)
